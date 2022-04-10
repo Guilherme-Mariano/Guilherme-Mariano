@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Guilherme-Mariano
 - 👀 I’m interested in Java, python, c++ and JavaScript
-- 🌱 I’m currently learning Java and Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 My email guilhermemfb.01@outlook.com
 
 <!---
