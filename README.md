@@ -5,7 +5,7 @@ Computer Engineering student and R&D researcher.
 
 ## 🔬 Current Focus & Research
 * **Machine Learning & Computer Vision**
-* **Applied Research**
+* **Applied mathematics**
 * **Embedded Systems**
 
 ## 🛠️ Tech Stack & Tools
