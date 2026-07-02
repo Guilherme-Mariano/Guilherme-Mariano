@@ -1,7 +1,6 @@
 # Guilherme Mariano
-### Computer Engineering | Machine Learning & Embedded Systems
+### Computer Engineering | R&D researcher
 
-Computer Engineering student and R&D researcher. 
 
 ## 🔬 Current Focus & Research
 * **Machine Learning & Computer Vision**
