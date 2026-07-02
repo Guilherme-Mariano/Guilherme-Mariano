@@ -8,7 +8,3 @@ Computer Engineering student and R&D researcher.
 * **Applied mathematics**
 * **Embedded Systems**
 
-## 🛠️ Tech Stack & Tools
-* **AI & Data:** Machine Learning, Computer Vision, Object Tracking, Synthetic Data Augmentation
-* **Embedded & Hardware:** STM32 Microcontrollers, HAL, Low-level protocols (I2C, SPI)
-* **Infrastructure & Operations:** Docker & Linux
