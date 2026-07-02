@@ -1,6 +1,14 @@
+# Guilherme Mariano
+### Computer Engineering | Machine Learning & Embedded Systems
 
+Computer Engineering student and R&D researcher. 
 
-<!---
-Guilherme-Mariano/Guilherme-Mariano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔬 Current Focus & Research
+* **Machine Learning & Computer Vision**
+* **Applied Research**
+* **Embedded Systems**
+
+## 🛠️ Tech Stack & Tools
+* **AI & Data:** Machine Learning, Computer Vision, Object Tracking, Synthetic Data Augmentation
+* **Embedded & Hardware:** STM32 Microcontrollers, HAL, Low-level protocols (I2C, SPI)
+* **Infrastructure & Operations:** Docker & Linux
